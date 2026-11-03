@@ -137,7 +137,7 @@ This project demonstrates practical implementation of:
 ## 👨‍💻 Author
 
 **Arnav Singla**  
-**2026A7PS0115H**  
+**BITS PILANI HYDERABAD CAMPUS**  
 CSE Student | C++ | Python | Software Development
 
 ```
